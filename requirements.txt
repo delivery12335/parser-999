@@ -1,0 +1,8 @@
+aiogram==3.22.0
+aiosqlite==0.21.0
+beautifulsoup4==4.13.4
+fastapi==0.116.1
+httpx==0.28.1
+pydantic-settings==2.10.1
+SQLAlchemy==2.0.43
+uvicorn[standard]==0.35.0

@@ -1,0 +1,1 @@
+"""Apartment watcher application package."""

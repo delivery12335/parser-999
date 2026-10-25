@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.db
+bot.*.log
+.pytest_cache/
+.idea/
+.vscode/
+android/.gradle/
+android/local.properties
+android/**/build/

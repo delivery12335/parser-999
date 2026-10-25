@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Parser999" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#2E7D32</item>
+        <item name="colorSecondary">#1565C0</item>
+    </style>
+</resources>
